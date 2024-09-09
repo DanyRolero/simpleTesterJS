@@ -1,3 +1,12 @@
+/**
+ * Proyecto: simpleTesterJS
+ * Descripción: Aplicación para realizar pruebas unitarias en JavaScript
+ * Autor: Daniel Martínez Trinidad
+ * Fecha de creación: 2024-09-06
+ * Versión: 1.0
+ */
+
+
 "use strict";
 
 //---------------------------------------------------------------------------------
